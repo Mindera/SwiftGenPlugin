@@ -29,8 +29,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "swiftgen",
-      url: "https://github.com/SwiftGen/SwiftGen/releases/download/6.6.2/swiftgen-6.6.2.artifactbundle.zip",
-      checksum: "7586363e24edcf18c2da3ef90f379e9559c1453f48ef5e8fbc0b818fbbc3a045"
+      url: "https://github.com/Mindera/SwiftGen/releases/download/6.6.4-mindera/swiftgen-6.6.4-mindera.artifactbundle.zip",
+      checksum: "a3f9af83cb213b73fb225974be8e080835d1f8950de9c6bdce432c62413c3868"
     )
   ]
 )

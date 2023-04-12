@@ -2,6 +2,12 @@
 
 ---
 
+## 6.6.4
+
+### Changes in core dependencies of SwiftGenPlugin
+
+* [SwiftGen 6.6.4-mindera](https://github.com/Mindera/SwiftGen/blob/6.6.4-mindera/CHANGELOG.md)
+
 ## 6.6.2
 
 ### Changes in core dependencies of SwiftGenPlugin
