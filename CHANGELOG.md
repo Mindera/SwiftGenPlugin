@@ -2,6 +2,12 @@
 
 ---
 
+## 6.6.5
+
+### Changes in core dependencies of SwiftGenPlugin
+
+* Host the SwiftGen 6.6.4-mindera artifact bundle on this repo's releases, as `Mindera/SwiftGen` is no longer available
+
 ## 6.6.4
 
 ### Changes in core dependencies of SwiftGenPlugin
