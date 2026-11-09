@@ -29,7 +29,7 @@ let package = Package(
     ),
     .binaryTarget(
       name: "swiftgen",
-      url: "https://github.com/Mindera/SwiftGen/releases/download/6.6.4-mindera/swiftgen-6.6.4-mindera.artifactbundle.zip",
+      url: "https://github.com/Mindera/SwiftGenPlugin/releases/download/6.6.4-mindera.1/swiftgen-6.6.4-mindera.artifactbundle.zip",
       checksum: "a3f9af83cb213b73fb225974be8e080835d1f8950de9c6bdce432c62413c3868"
     )
   ]
