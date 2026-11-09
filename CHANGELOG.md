@@ -2,7 +2,7 @@
 
 ---
 
-## 6.6.5
+## 6.6.4-mindera.1
 
 ### Changes in core dependencies of SwiftGenPlugin
 
